@@ -1,0 +1,34 @@
+main {
+    text-align: center;
+    color: white;
+}
+body {
+    background-color: darkblue
+}
+header {
+    text-align: center;
+    color: white;
+    font-size: 2em;
+}
+
+img {
+    border: 5px white dotted;
+    padding: 5px;
+  }
+  
+  img:hover {
+    border: 5px red solid;
+  }
+
+  a {
+      color:white;
+      text-decoration: none;
+  }
+
+  a:hover {
+      color: red;
+  }
+
+  nav {
+      text-align: center;
+  }
